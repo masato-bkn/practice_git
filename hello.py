@@ -1,4 +1,3 @@
-def hello():
-    print("hello python!")
-
-hello()
+def hello(string):
+    print(f"hello {string}!")
+hello("git")
