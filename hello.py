@@ -1,4 +1,3 @@
 def hello():
-    print("hello python!")
-
+    print("hello git!")
 hello()
