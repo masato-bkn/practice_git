@@ -2,4 +2,4 @@ def hello(string):
     print(f"hello {string}!")
 hello("git")
 hello("git rebase")
-hello("git checkout -b checkout_a checkout_c")
+hello("git checkout -b checkout_a checkout_c checkout_a")
