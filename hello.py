@@ -9,3 +9,4 @@ hello("squash 2")
 hello("squash 3")
 
 hello("merge 1")
+hello("merge 2")
