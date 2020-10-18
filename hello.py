@@ -10,3 +10,5 @@ hello("squash 3")
 
 hello("merge 1")
 hello("merge 2")
+hello("merge 2")
+hello("merge 3")
