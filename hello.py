@@ -22,3 +22,5 @@ hello("merge a")
 hello("merge b")
 
 hello("merge c")
+
+hello("master")
