@@ -15,3 +15,5 @@ hello("merge 3")
 
 hello("rebase 1")
 hello("rebase 2")
+
+hello("master")
