@@ -14,3 +14,4 @@ hello("merge 2")
 hello("merge 3")
 
 hello("merge a")
+hello("merge b")
