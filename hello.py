@@ -24,3 +24,4 @@ hello("merge b")
 hello("merge c")
 
 hello("rebase a")
+hello("rebase bs")
